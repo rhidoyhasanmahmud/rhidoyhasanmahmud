@@ -12,6 +12,10 @@ I am working on a modern tech stack -
 - Python(Django), PHP(Laravel), MySQL, PostgreSQL on Backend
 - JavaScript(Include JQuery and Ajax) and Vuejs on Frontend
 
+Beside my full time work,
+- I also write blog post on [Medium](https://medium.com/@codemechanix)
+- I developed and maintain some applications. You can check out those applications from my website. [Hasan Mahmud](https://codemechanix.github.io/Home/)
+
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
