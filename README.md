@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/codemechanix/)
+[![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/codemechanix/)
+
 This is Hasan Mahmud, and welcome to my github profile. I love to solve problems and highly enthusiastic about learning new things and trying out new ideas. Furthermore, I am passionate about Learning New Technology and like to learn anything about different programming languages, algorithms, data structures, design patterns.
 
 - 🔭 I’m currently working on Accfintech Limited as a Software Engineer where my main responsibility is to work on the Backend with the logic implementations on the Frontend side.
