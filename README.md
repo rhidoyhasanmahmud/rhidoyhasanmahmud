@@ -22,9 +22,9 @@ My Open Source contribution and Weekends Programming Hobby -
 - [Laravel Rootx](https://github.com/Laravel-RootX)
 - [Programming-Interview-Preparation](https://github.com/Programming-Interview-Preparation)
 - [Data Structure & Algorithm Implementations](https://github.com/Algo-Archive)
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=codemechanix&show_icons=true" alt="codemechanix" /> </h1>
 <!--
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=codemechanix&show_icons=true" alt="codemechanix" /> </h1>
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
