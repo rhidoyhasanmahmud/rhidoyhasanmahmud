@@ -12,7 +12,7 @@ This is Hasan Mahmud, and welcome to my github profile. I love to solve problems
 
 I am working on a modern tech stack -
 - Python(Django), PHP(Laravel), Java(Spring Boot), MySQL, PostgreSQL on Backend
-- JavaScript(Include JQuery and Ajax) and Vuejs on Frontend
+- JavaScript(Include JQuery and Ajax), ReactJS and Vuejs on Frontend
 
 Beside my full time work,
 - I also write blog post on [Medium](https://medium.com/@codemechanix)
