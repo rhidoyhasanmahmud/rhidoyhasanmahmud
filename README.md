@@ -16,7 +16,7 @@ I am working on a modern tech stack -
 
 Beside my full time work,
 - I also write blog post on [Medium](https://medium.com/@codemechanix)
-- I developed and maintain some applications. You can check out those applications from my website. [Hasan Mahmud](https://codemechanix.github.io/Home/)
+- I developed and maintain some applications. You can check out those applications from my website. [Hasan Mahmud](https://sites.google.com/view/codemechanixhasan/home)
 
 My Open Source contribution and Weekends Programming Hobby -
 - [Laravel Rootx](https://github.com/Laravel-RootX)
