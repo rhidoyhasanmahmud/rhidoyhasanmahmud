@@ -10,17 +10,17 @@ I was involved in competitive programming during my B.Sc. life. I have participa
 I have solved around 700+ programming problems in different online judges. This practice has given me great efficiency in data structures and algorithms.
 
 𝙎𝙥𝙚𝙘𝙞𝙖𝙡𝙞𝙩𝙞𝙚𝙨 & 𝙏𝙚𝙘𝙝𝙣𝙤𝙡𝙤𝙜𝙞𝙚𝙨:
-● Language: Java, Python, PHP, Javascript
-● Frameworks & Libraries: Spring WebFlux, Spring Boot, JUnit, Servlet, Hibernate, Jersey (REST-Webservices), Laravel, RabbitMQ
-● Database: MySQL, PostgreSQL, Redis.
-● Version Control: Git
-● Build tool: Maven, Gradle.
-● CI/CD: Jenkins.
-● Project management system: JIRA.
-● Environment: PyCharm, Netbeans, PhpStorm, WebStorm, IntelliJ IDEA Ultimate, Eclipse, Spring Tool Suite.
-● Operating System: Windows, Linux.
-● Server: Docker and docker-compose system (Learning).
-● Scalable microservices, Test Driven Development ( TDD ), and Event-Driven Development ( EDD ) approach.
+- Language: Java, Python, PHP, Javascript
+- Frameworks & Libraries: Spring WebFlux, Spring Boot, JUnit, Servlet, Hibernate, Jersey (REST-Webservices), Laravel, RabbitMQ
+- Database: MySQL, PostgreSQL, Redis. 
+- Version Control: Git 
+- Build tool: Maven, Gradle. 
+- CI/CD: Jenkins. 
+- Project management system: JIRA. 
+- Environment: PyCharm, Netbeans, PhpStorm, WebStorm, IntelliJ IDEA Ultimate, Eclipse, Spring Tool Suite. 
+- Operating System: Windows, Linux. 
+- Server: Docker and docker-compose system (Learning). 
+- Scalable microservices, Test Driven Development ( TDD ), and Event-Driven Development ( EDD ) approach.
 
 To contact:: hasan.mahmud8177@gmail.com
 <!--
