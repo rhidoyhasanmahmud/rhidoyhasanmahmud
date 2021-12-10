@@ -34,16 +34,16 @@ To contact:: hasan.mahmud8177@gmail.com
 -->
 
 ### Hi there 👋
-- 📫 How to reach me: Email me at foyzulkarim@gmail.com 🙂
+- 📫 How to reach me: Email me at hasan.mahmud8177@gmail.com 🙂
 
-[![Foyzul's GitHub stats](https://github-readme-stats.vercel.app/api?username=foyzulkarim)](https://github.com/foyzulkarim/github-readme-stats)
+[![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=codemechanix)](https://github.com/codemechanix/github-readme-stats)
 
-![Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=foyzulkarim&theme=blue-green)
+![Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=codemechanix&theme=blue-green)
 
 
-[![Visits Badge](https://badges.pufler.dev/visits/foyzulkarim/foyzulkarim)](https://github.com/foyzulkarim)
+[![Visits Badge](https://badges.pufler.dev/visits/codemechanix/codemechanix)](https://github.com/codemechanix)
 <!--
-**foyzulkarim/foyzulkarim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**codemechanix/codemechanix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
