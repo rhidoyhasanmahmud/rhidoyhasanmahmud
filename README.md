@@ -22,7 +22,8 @@ I have solved around 700+ programming problems in different online judges. This 
 - Server: Docker and docker-compose system (Learning). 
 - Scalable microservices, Test Driven Development ( TDD ), and Event-Driven Development ( EDD ) approach.
 
-To contact:: hasan.mahmud8177@gmail.com
+📫 How to reach me: Email me at hasan.mahmud8177@gmail.com 🙂
+
 <!--
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=codemechanix&show_icons=true" alt="codemechanix" /> </h1>
 
@@ -33,27 +34,8 @@ To contact:: hasan.mahmud8177@gmail.com
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋
-- 📫 How to reach me: Email me at hasan.mahmud8177@gmail.com 🙂
-
 [![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=codemechanix)](https://github.com/codemechanix/github-readme-stats)
 
 ![Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=codemechanix&theme=blue-green)
 
-
 [![Visits Badge](https://badges.pufler.dev/visits/codemechanix/codemechanix)](https://github.com/codemechanix)
-<!--
-**codemechanix/codemechanix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
