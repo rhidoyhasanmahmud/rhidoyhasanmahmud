@@ -22,7 +22,7 @@ I have solved around 700+ programming problems in different online judges. This 
 - Server: Docker and docker-compose system (Learning). 
 - Scalable microservices, Test Driven Development ( TDD ), and Event-Driven Development ( EDD ) approach.
 
-📫 How to reach me: Email me at hasan.mahmud8177@gmail.com 🙂
+📫 Reach me: hasan.mahmud8177@gmail.com 🙂
 
 <!--
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=codemechanix&show_icons=true" alt="codemechanix" /> </h1>
