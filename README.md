@@ -20,7 +20,7 @@ I have solved around 700+ programming problems in different online judges. This 
 - Environment: PyCharm, Netbeans, PhpStorm, WebStorm, IntelliJ IDEA Ultimate, Eclipse, Spring Tool Suite. 
 - Operating System: Windows, Linux. 
 - Server: Docker and docker-compose system (Learning). 
-- Scalable microservices, Test Driven Development ( TDD ), and Event-Driven Development ( EDD ) approach.
+- Scalable microservices, Test Driven Development (TDD), and Event-Driven Development ( EDD ) approach.
 
 📫 Reach me: hasan.mahmud8177@gmail.com 🙂
 
