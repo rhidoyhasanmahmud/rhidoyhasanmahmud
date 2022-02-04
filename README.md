@@ -3,7 +3,7 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/codemechanix/)
 [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/codemechanix/)
 
-As 3 years experienced backend java developer, I’ve developed and led many mission-critical projects from scratch to deployment by following Scrum methodology and using CI/CD and java 8/java 11/python. As a software engineer with decent knowledge in SOLID principles, Java, Python, MySQL, PostgreSQL, Docker, Redis, I am confident enough to help a team to design and build a great efficient scalable microservice system.
+As 3 years experienced backend java developer, I’ve developed and led many mission-critical projects from scratch  to deployment by following Scrum methodology and using CI/CD and java 8/java 11/python. As a software engineer with decent knowledge in SOLID principles, Java, Python, MySQL, PostgreSQL, Docker, Redis, I am confident enough to help a team to design and build a great efficient scalable microservice system.
 
 I was involved in competitive programming during my B.Sc. life. I have participated in 15+ national & international programming contests along with ACM-ICPC regional three times. I was also quite active in online programming contests.
 
