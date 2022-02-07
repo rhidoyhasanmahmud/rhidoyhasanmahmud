@@ -36,6 +36,8 @@ I have solved around 700+ programming problems in different online judges. This 
 
 [![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=codemechanix)](https://github.com/codemechanix/github-readme-stats)
 
-![Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=codemechanix&theme=blue-green)
+<!-- ![Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=codemechanix&theme=blue-green)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codemechanix&langs_count=15)](https://github.com/codemechanix/github-readme-stats)
+
 
 [![Visits Badge](https://badges.pufler.dev/visits/codemechanix/codemechanix)](https://github.com/codemechanix)
