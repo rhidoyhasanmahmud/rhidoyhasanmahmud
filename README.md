@@ -3,24 +3,29 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/codemechanix/)
 [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/codemechanix/)
 
-As 3 years experienced backend java developer, I’ve developed and led many mission-critical projects from scratch  to deployment by following Scrum methodology and using CI/CD and java 8/java 11/python. As a software engineer with decent knowledge in SOLID principles, Java, Python, MySQL, PostgreSQL, Docker, Redis, I am confident enough to help a team to design and build a great efficient scalable microservice system.
+## Github Stats 
 
-I was involved in competitive programming during my B.Sc. life. I have participated in 15+ national & international programming contests along with ACM-ICPC regional three times. I was also quite active in online programming contests.
+<details> 
+  <summary><b>Profile Stats</b></summary>
+  <br/>
+  <p>
+    <a href="https://github.com/codemechanix"><img align="center" src="https://github-readme-stats.vercel.app/api?username=codemechanix&show_icons=true&locale=en&theme=react" alt="codemechanix" height="192px"/></a>
+	</p>
+	<p>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codemechanix&show_icons=true&locale=en&layout=compact&theme=react" alt="codemechanix" height="192px"/>
+	</p>
+  </p>
+</details>
 
-I have solved around 700+ programming problems in different online judges. This practice has given me great efficiency in data structures and algorithms.
 
-𝙎𝙥𝙚𝙘𝙞𝙖𝙡𝙞𝙩𝙞𝙚𝙨 & 𝙏𝙚𝙘𝙝𝙣𝙤𝙡𝙤𝙜𝙞𝙚𝙨:
-- Language: Java, Python, PHP, Javascript
-- Frameworks & Libraries: Spring WebFlux, Spring Boot, JUnit, Servlet, Hibernate, Jersey (REST-Webservices), Laravel, RabbitMQ
-- Database: MySQL, PostgreSQL, Redis. 
-- Version Control: Git 
-- Build tool: Maven, Gradle. 
-- CI/CD: Jenkins. 
-- Project management system: JIRA. 
-- Environment: PyCharm, Netbeans, PhpStorm, WebStorm, IntelliJ IDEA Ultimate, Eclipse, Spring Tool Suite. 
-- Operating System: Windows, Linux. 
-- Server: Docker and docker-compose system (Learning). 
-- Scalable microservices, Test Driven Development (TDD), and Event-Driven Development ( EDD ) approach.
+<details>
+  <summary><b>Recent Activity</b></summary>
+  <br/>
+   <a href="https://github.com/hmsayem"><img alt="Hossain's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hmsayem&custom_title=Hossain's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+</details>
+<br/>
+
 
 📫 Reach me: hasan.mahmud8177@gmail.com 🙂
 
