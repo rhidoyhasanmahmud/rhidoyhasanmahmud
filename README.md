@@ -43,6 +43,3 @@
 
 <!-- ![Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=codemechanix&theme=blue-green)-->
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codemechanix&langs_count=15)](https://github.com/codemechanix/github-readme-stats)-->
-
-
-[![Visits Badge](https://badges.pufler.dev/visits/codemechanix/codemechanix)](https://github.com/codemechanix)
