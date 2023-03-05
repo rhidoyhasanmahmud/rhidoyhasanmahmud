@@ -11,7 +11,7 @@ At BRAC IT Services, I work closely with product managers, designers, and other 
 
 When I'm not coding, I enjoy reading about new technologies and advancements in the software industry. I also like to attend conferences and meetups to network with other developers and learn from their experiences.
 
-Overall, I am a driven and dedicated software engineer with a passion for creating great software that makes a difference. I am proud to be part of the GitHub team and look forward to continuing to innovate and build amazing products for our users.
+Overall, I am a driven and dedicated software engineer with a passion for creating great software that makes a difference. I am proud to be part of the BRAC IT Services team and look forward to continuing to innovate and build amazing products for our users.
 <!--
 ## Github Stats 
 
