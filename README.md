@@ -3,7 +3,7 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/codemechanix/)
 [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/codemechanix/)
 
-I'm Hasan Mahmud Rhidoy, a Software Engineer at BRAC IT Services, Bangladesh. I've always been passionate about building software that has a positive impact on people's lives. At BRAC IT Services, I get to work on projects that help developers collaborate and build amazing software together.
+I'm **Hasan Mahmud Rhidoy**, a Software Engineer at BRAC IT Services, Bangladesh. I've always been passionate about building software that has a positive impact on people's lives. At BRAC IT Services, I get to work on projects that help developers collaborate and build amazing software together.
 
 My expertise lies in building scalable and reliable distributed systems using modern software engineering practices. I am proficient in multiple programming languages such as Java, Python, and JavaScript, and have experience with front-end frameworks like React.
 
