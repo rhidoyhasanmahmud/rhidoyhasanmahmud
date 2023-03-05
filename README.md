@@ -5,7 +5,7 @@
 
 I'm **Hasan Mahmud Rhidoy**, a Software Engineer at BRAC IT Services, Bangladesh. I've always been passionate about building software that has a positive impact on people's lives. At BRAC IT Services, I get to work on projects that help developers collaborate and build amazing software together.
 
-My expertise lies in building scalable and reliable distributed systems using modern software engineering practices. I am proficient in multiple programming languages such as Java, Python, and JavaScript, and have experience with front-end frameworks like React.
+My expertise lies in building scalable and reliable distributed systems using modern software engineering practices. I am proficient in multiple programming languages such as *Java, Python, and JavaScript*, and have experience with front-end frameworks like *React*.
 
 At BRAC IT Services, I work closely with product managers, designers, and other engineers to build features and products. I'm always on the lookout for new and innovative ways to improve our platform and make it more user-friendly.
 
