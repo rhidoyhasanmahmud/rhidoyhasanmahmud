@@ -3,15 +3,29 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/codemechanix/)
 [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/codemechanix/)
 
-I'm **Hasan Mahmud Rhidoy**, a Software Engineer at BRAC IT Services, Bangladesh. I've always been passionate about building software that has a positive impact on people's lives. At BRAC IT Services, I get to work on projects that help developers collaborate and build amazing software together.
+Skilled and motivated Java Developer with 4(+) years of experience in developing high-quality software solutions. With a passion for clean, efficient, and maintainable code, I have contributed to the development of numerous enterprise-level applications. During my B.Sc. life, I was actively involved in competitive programming, which helped me develop strong problem-solving skills and a deep understanding of data structures and algorithms.
 
-My expertise lies in building scalable and reliable distributed systems using modern software engineering practices. I am proficient in multiple programming languages such as *Java, Python, and JavaScript*, and have experience with front-end frameworks like *React*.
+I am a quick learner and a team player, always willing to learn and work collaboratively with my colleagues. I have excellent communication skills, which help me to effectively communicate complex technical concepts to non-technical stakeholders.
 
-At BRAC IT Services, I work closely with product managers, designers, and other engineers to build features and products. I'm always on the lookout for new and innovative ways to improve our platform and make it more user-friendly.
+I have experience in building scalable and robust applications using Java frameworks such as Spring WebFlux, Spring Boot, JUnit, and Hibernate. I am also proficient in SQL and have experience in working with databases like MySQL and Oracle. Additionally, I have experience in developing RESTful APIs and integrating them with front-end technologies like React.
 
-When I'm not coding, I enjoy reading about new technologies and advancements in the software industry. I also like to attend conferences and meetups to network with other developers and learn from their experiences.
+𝙎𝙥𝙚𝙘𝙞𝙖𝙡𝙞𝙩𝙞𝙚𝙨 & 𝙏𝙚𝙘𝙝𝙣𝙤𝙡𝙤𝙜𝙞𝙚𝙨:
 
-Overall, I am a driven and dedicated software engineer with a passion for creating great software that makes a difference. I am proud to be part of the BRAC IT Services team and look forward to continuing to innovate and build amazing products for our users.
+● Language: Java (4 Years), Javascript (3 Years), Python (3 Years) 
+● Frameworks & Libraries: Spring WebFlux (1 Year), Spring Boot (4 Years), JUnit (2 Years), JPA-Hibernate (4 Years), Jersey (REST-Webservices)
+● Message Broker: IBM MQ (1 Year), RabbitMQ (2 Years)
+● Database: MySQL(2 Years), PostgreSQL(2 Years), Oracle (4 Years), Redis (2 Years).
+● Version Control: Git(4 Years)
+● Build tool: Maven(4 Years), Gradle.
+● CI/CD: Jenkins.
+● Project management system: JIRA.
+● Environment: IntelliJ IDEA Ultimate, Eclipse, Spring Tool Suite.
+● Operating System: Windows, Linux.
+● Server: Docker and docker-compose system (Learning).
+● Scalable microservices, Test Driven Development ( TDD ), and Event-Driven Development ( EDD ) approach.
+
+I'm excited to bring my skills and experience to your organization and contribute to the growth and success of your team.
+
 <!--
 ## Github Stats 
 
