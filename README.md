@@ -11,17 +11,17 @@ I have experience in building scalable and robust applications using Java framew
 
 𝙎𝙥𝙚𝙘𝙞𝙖𝙡𝙞𝙩𝙞𝙚𝙨 & 𝙏𝙚𝙘𝙝𝙣𝙤𝙡𝙤𝙜𝙞𝙚𝙨:
 
-● Language: Java (4 Years), Javascript (3 Years), Python (3 Years) 
+● Language: Java, Javascript, Python
 
-● Frameworks & Libraries: Spring WebFlux (1 Year), Spring Boot (4 Years), JUnit (2 Years), JPA-Hibernate (4 Years), Jersey (REST-Webservices)
+● Frameworks & Libraries: Spring WebFlux, Spring Boot, JUnit, JPA-Hibernate, Jersey (REST-Webservices)
 
-● Message Broker: IBM MQ (1 Year), RabbitMQ (2 Years)
+● Message Broker: IBM MQ, RabbitMQ
 
-● Database: MySQL(2 Years), PostgreSQL(2 Years), Oracle (4 Years), Redis (2 Years).
+● Database: MySQL, PostgreSQL(, Oracle, Redis.
 
-● Version Control: Git(4 Years)
+● Version Control: Git
 
-● Build tool: Maven(4 Years), Gradle.
+● Build tool: Maven, Gradle.
 
 ● CI/CD: Jenkins.
 
