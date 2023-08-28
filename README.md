@@ -3,6 +3,10 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/codemechanix/)
 [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/codemechanix/)
 
+Greetings, my name is Hasan and I am a software engineer residing and working in Malaysia. With 5 years of professional experience, I am enthusiastic about finding solutions to intricate problems and developing inventive solutions.
+
+In my leisure time, I enjoy relaxing by spending quality time with my family, indulging in some reading, and discovering new places. I find that traveling helps me gain a broader perspective and offers me fresh inspiration for my work.
+<!--
 Skilled and motivated Java Developer with 4(+) years of experience in developing high-quality software solutions. With a passion for clean, efficient, and maintainable code, I have contributed to the development of numerous enterprise-level applications. During my B.Sc. life, I was actively involved in competitive programming, which helped me develop strong problem-solving skills and a deep understanding of data structures and algorithms.
 
 I am a quick learner and a team player, always willing to learn and work collaboratively with my colleagues. I have excellent communication skills, which help me to effectively communicate complex technical concepts to non-technical stakeholders.
@@ -37,7 +41,6 @@ I have experience in building scalable and robust applications using Java framew
 
 I'm excited to bring my skills and experience to your organization and contribute to the growth and success of your team.
 
-<!--
 ## Github Stats 
 
 <details> 
