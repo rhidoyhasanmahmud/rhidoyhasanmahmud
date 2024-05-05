@@ -3,9 +3,13 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/codemechanix/)
 [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/codemechanix/)
 
-Greetings, my name is Hasan and I am a software engineer residing and working in Malaysia. With 5 years of professional experience, I am enthusiastic about finding solutions to intricate problems and developing inventive solutions.
+Hello, my name is Hasan. I am a seasoned Software Engineer based in Malaysia, with a robust background in developing solutions for complex technological challenges. Over the past five years, I have honed my skills in various programming languages and frameworks, continually pushing the boundaries of what's possible in software development.
 
-In my leisure time, I enjoy relaxing by spending quality time with my family, indulging in some reading, and discovering new places. I find that traveling helps me gain a broader perspective and offers me fresh inspiration for my work.
+Beyond my technical expertise, I have a profound passion for leveraging technology to solve real-world problems. I believe in the power of innovation to transform industries and improve lives, which drives my commitment to excellence in every project I undertake.
+
+When I'm not coding or debugging, I enjoy exploring new cultures through travel, which broadens my perspective and inspires my creative process. I also spend my downtime reading and enjoying quality moments with my family, which keeps me grounded and refreshed.
+
+I am always eager to connect with fellow professionals who are passionate about technology and innovation. Let's link up and explore potential collaborations or share insights that can foster our professional growth.
 <!--
 Skilled and motivated Java Developer with 4(+) years of experience in developing high-quality software solutions. With a passion for clean, efficient, and maintainable code, I have contributed to the development of numerous enterprise-level applications. During my B.Sc. life, I was actively involved in competitive programming, which helped me develop strong problem-solving skills and a deep understanding of data structures and algorithms.
 
