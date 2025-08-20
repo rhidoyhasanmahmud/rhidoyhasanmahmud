@@ -8,7 +8,7 @@
 <br/>
 <br/>
 
-- 🤓  Engineer @Denica
+- 🤓  Engineer @Danica 
 - 💬  Ask me about Java, Spring Boot, AWS, or OAuth/OIDC.
 - 🌱  I’m currently learning AWS for Certification.
 - 😄  Pronouns: He/him.
