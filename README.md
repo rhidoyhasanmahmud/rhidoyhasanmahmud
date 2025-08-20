@@ -3,7 +3,7 @@
 <a href="https://twitter.com/rhidoyhasanmahmud">
   <img alt="Follow Hasan on Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a> &nbsp;
 <a href="https://www.linkedin.com/in/rhidoyhasanmahmud/">
-  <img alt="Hasan on LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a> &nbsp;
+  <img alt="Follow Hasan on LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a> &nbsp;
 
 <br/>
 <br/>
