@@ -1,28 +1,30 @@
-### Hi there 👋
+## Hasan, folks! 🤠
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/rhidoyhasanmahmud/)
-[![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/rhidoyhasanmahmud/)
+<a href="https://twitter.com/rhidoyhasanmahmud">
+  <img alt="Follow @mraible on Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a> &nbsp;
+<a href="https://www.linkedin.com/in/rhidoyhasanmahmud/">
+  <img alt="Matt on LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a> &nbsp;
 
-I am a skilled and motivated Java Developer with over 5 years of experience in developing high-quality software solutions. My career journey includes significant contributions to enterprise-level applications, leveraging my expertise in Java, Spring Boot, and various other technologies. My active participation in competitive programming during my B.Sc. studies has honed my problem-solving skills and deepened my understanding of data structures and algorithms.
+<br/>
+<br/>
 
-I excel in collaborative environments, bringing a quick learning attitude and a team player mindset. My excellent communication skills enable me to effectively translate complex technical concepts to non-technical stakeholders, ensuring smooth project progression and client satisfaction.
+- 🤓  Engineer @Denica
+- 💬  Ask me about Java, Spring Boot, AWS, or OAuth/OIDC.
+- 🌱  I’m currently learning AWS for Certification.
+- 😄  Pronouns: He/him.
+- ⚡  Fun fact: I grew up without electricity or running water for 16 years. 
 
-### Specialties & Technologies:
+[![Twitter follow @rhidoyhasanmahmud](https://img.shields.io/twitter/follow/mraible?style=social)](https://twitter.com/rhidoyhasanmahmud) &nbsp;
+[![Linkedin follow @rhidoyhasanmahmud](https://img.shields.io/badge/-mraible-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rhidoyhasanmahmud/)](https://www.linkedin.com/in/rhidoyhasanmahmud/) &nbsp;
 
-- **Languages**: Java, JavaScript, Python
-- **Frameworks & Libraries**: Spring, Spring Boot
-- **Message Brokers**: Kafka, RabbitMQ
-- **Databases**: MySQL, PostgreSQL, Oracle, Redis, MS SQL
-- **Version Control**: Git
-- **Build Tools**: Maven, Gradle
-- **CI/CD**: Jenkins
-- **Cloud Services**: AWS
-- **Project Management**: JIRA
-- **Environments**: IntelliJ IDEA Ultimate, Eclipse, Spring Tool Suite
-- **Operating Systems**: Windows, Linux
-- **Containerization & Orchestration**: Docker, Docker Compose, Kubernetes (Learning)
-- **Development Approaches**: Scalable Microservices, Test-Driven Development (TDD), Event-Driven Development (EDD)
+### Languages and Tools
 
-I am enthusiastic about the opportunity to bring my skills and experience to your organization, contributing to the growth and success of your team.
+<a href="https://github.com/rhidoyhasanmahmud">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhidoyhasanmahmud&theme=light&count_private=true" alt="Hasan's most used languages" /></a>
 
-**Contact**: hasanmahmud0722@gmail.com
+
+### My GitHub Stats
+
+<a href="https://github.com/rhidoyhasanmahmud">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=rhidoyhasanmahmud&show_icons=true&theme=light&line_height=27" alt="Hasan's GitHub stats"/></a>
+****
