@@ -6,8 +6,6 @@
   <img alt="Follow Hasan on LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a> &nbsp;
 
 <br/>
-<br/>
-
 - 🤓  Engineer @Danica 
 - 💬  Ask me about Java, Spring Boot, AWS, or OAuth/OIDC.
 - 🌱  I’m currently learning AWS for Certification.
