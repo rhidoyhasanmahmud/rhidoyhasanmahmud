@@ -14,8 +14,3 @@
 [![Twitter follow @rhidoyhasanmahmud](https://img.shields.io/twitter/follow/rhidoyhasanmahmud?style=social)](https://twitter.com/rhidoyhasanmahmud) &nbsp;
 [![Linkedin follow @rhidoyhasanmahmud](https://img.shields.io/badge/-rhidoyhasanmahmud-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rhidoyhasanmahmud/)](https://www.linkedin.com/in/rhidoyhasanmahmud/) &nbsp;
 
-### My GitHub Stats
-
-<a href="https://github.com/rhidoyhasanmahmud">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=rhidoyhasanmahmud&show_icons=true&theme=light&line_height=27" alt="Hasan's GitHub stats"/></a>
-
