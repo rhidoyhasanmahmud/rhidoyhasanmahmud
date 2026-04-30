@@ -1,6 +1,6 @@
 ## Hasan, folks! 🤠
 
-<a href="https://twitter.com/rhidoyhasanmahmud">
+<a href="[https://twitter.com/rhidoyhasanmahmud](https://x.com/RhidoyMahmud)">
   <img alt="Follow Hasan on Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a> &nbsp;
 <a href="https://www.linkedin.com/in/rhidoyhasanmahmud/">
   <img alt="Follow Hasan on LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a> &nbsp;
